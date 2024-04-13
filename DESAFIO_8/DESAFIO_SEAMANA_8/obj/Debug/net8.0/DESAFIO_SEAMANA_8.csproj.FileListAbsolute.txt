@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\bin\Debug\net8.0\DESAFIO_SEAMANA_8.exe
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\bin\Debug\net8.0\DESAFIO_SEAMANA_8.deps.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\bin\Debug\net8.0\DESAFIO_SEAMANA_8.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\bin\Debug\net8.0\DESAFIO_SEAMANA_8.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\bin\Debug\net8.0\DESAFIO_SEAMANA_8.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\refint\DESAFIO_SEAMANA_8.dll
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.pdb
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\DESAFIO_SEAMANA_8.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\DESAFIO_8\DESAFIO_SEAMANA_8\obj\Debug\net8.0\ref\DESAFIO_SEAMANA_8.dll
